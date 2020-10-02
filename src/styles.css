@@ -1,1 +1,9 @@
-/* You can add global styles to this file, and also import other style files */
+@font-face {
+    font-family: london;
+    src: url('/projeto-nave/src/assets/fonts/london-bridge-semi-bold.otf');
+}
+
+*{
+font-family: london;
+
+}

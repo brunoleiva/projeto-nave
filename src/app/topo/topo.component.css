@@ -1,0 +1,28 @@
+.nav-topo{
+    background-color: #2d3e50;
+    position: relative;
+}
+
+#topo{
+    padding: 15px;
+}
+
+.portal-viagens{
+    margin-right:  auto;
+    font-weight: bolder;
+    font-size: 25px;
+    margin-left: 60px;
+
+}
+.nav-item{
+    font-weight: bolder;
+    font-size: 15px;
+    
+}
+.lista{
+    margin: 0;
+    position: absolute;
+    left: 65%;
+
+}
+
